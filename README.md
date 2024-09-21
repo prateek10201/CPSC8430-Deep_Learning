@@ -25,7 +25,11 @@ The repository is organized as follows:
 - **Task 3:**
   - `3.1_Fit_Random_Labels.ipynb`: Investigates the model's ability to fit random labels.
   - `3.2_Parameters_VS_Generalization.ipynb`: Studies the relationship between model parameters and generalization.
-  - `3.3
+  - `3.3.1_Flatness_VS_Generalization_Interpolation_Ratio.ipynb`: Examines flatness vs. generalization with interpolation ratio.
+  - `3.3.2_Flatness_VS_Generalization_Sensitivity.ipynb`: Explores flatness vs. generalization sensitivity.
+  - `3.4_Flatness_VS_Generalization_Sharpness_Bonus.ipynb`: Analyzes flatness vs. generalization sharpness (Bonus task).
+ 
+
 
 
 
