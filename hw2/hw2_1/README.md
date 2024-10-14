@@ -5,13 +5,14 @@
 Welcome to the repository for Homework 2 of the Deep Learning course (CPSC 8430). This repository contains all the necessary files and .py files for the second assignment.
 
 # Note
-GitHub only accepts file sizes less than **25MB**, and the model I have generated in this assignment is **49 MB** (> 25MB). Therefore, I have uploaded my model to Google Drive and am sharing the link below. I request TA to consider this, download the **Prateek_Choudavarpu_seq2seq_model.h5** file available in the link below, and then execute the **test_seq2seq.py** file using **hw2_seq2seq** shell script.
+- GitHub only accepts file sizes less than **25MB**, and the model I have generated in this assignment is **49 MB** (> 25MB). Therefore, I have uploaded my model to Google Drive and am sharing the link below. I request TA to consider this, download the **Prateek_Choudavarpu_seq2seq_model.h5** file available in the link below, and then execute the **test_seq2seq.py** file using **hw2_seq2seq** shell script.
+- For reference, I have added the link here: [Prateek_Choudavarpu_seq2seq_model](https://drive.google.com/file/d/1IXquJuc0_-XsUq5aK9n9jgkz-SXl1EtT/view?usp=sharing)
 
 ## Steps to obtain the BLEU Score:
 
-**Step 1** - First, download the model from the link provided in the _HW2_Trained Model Link_Prateek Choudavarpu.pdf_ file, which you could find the repository. 
+**Step 1** - First, download the model from the link provided in the **_HW2_Trained Model Link_Prateek Choudavarpu.pdf_** file, which you could find the repository. 
 
-**Step 2** - To execute the _test_seq2seq.py_ file, execute the _hw2_seq2seq.sh_ shell script, which internally has the following code: 
+**Step 2** - To execute the **_test_seq2seq.py_** file, execute the **_hw2_seq2seq.sh_** shell script, which internally has the following code: 
 - ```bash
   python3 test_seq2seq.py $1 $2
   ```
