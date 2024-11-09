@@ -1,0 +1,17 @@
+BERT Question Answering Evaluation Results
+========================================
+
+Results for No Noise:
+F1 Score: 69.39%
+EM Score: 48.42%
+
+Results for WER 44:
+F1 Score: 38.04%
+EM Score: 26.53%
+
+Results for WER 54:
+F1 Score: 26.25%
+EM Score: 18.31%
+
+========================================
+Evaluation completed successfully.

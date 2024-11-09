@@ -1,0 +1,17 @@
+Question Answering Evaluation Results
+===================================
+
+Results for No Noise:
+F1 Score: 73.03%
+EM Score: 51.09%
+
+Results for WER 44:
+F1 Score: 41.26%
+EM Score: 29.11%
+
+Results for WER 54:
+F1 Score: 31.11%
+EM Score: 22.99%
+
+===================================
+Evaluation completed successfully.
